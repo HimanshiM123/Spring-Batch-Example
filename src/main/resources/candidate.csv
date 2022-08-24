@@ -1,0 +1,4 @@
+id,cicId,fullName,email,mobileNum,hiredDate,degree,aggregatePercentage,city,state,status,passedOutYear,candidateStatus,preferredJobLocation
+1,01,Sonali,sonali@gmail.com,7894561235,06/06/2020,EE,70,Pune,Maharashtra,abc,2018,complete,Pune
+2,02,Ankita,ankita@gmail.com,6547891235,05/05/2020,CSE,80,Mum,Maharashtra,xyz,2019,complete,mum
+3,03,Rinku,rink@gmail.com,8574961235,04/04/2021,CT,65.69,Nagpur,Maharashtra,def,2020,complete,Nagpur
